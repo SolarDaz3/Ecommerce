@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Website",
+			"path": ".."
+		},
+		{
+			"name": "Practice Portfolio",
+			"path": "../../Practice Portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website"
+	}
+}
